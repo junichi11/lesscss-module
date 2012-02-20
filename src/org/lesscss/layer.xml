@@ -27,6 +27,12 @@
                         </folder>
                     </folder>
                 </folder>
+                <folder name="Popup">
+                    <file name="org-lesscss-actions-LessCSSCompileAction.shadow">
+                        <attr name="originalFile" stringvalue="Actions/Tools/org-lesscss-actions-LessCSSCompileAction.instance"/>
+                        <attr name="position" intvalue="400"/>
+                    </file>
+                </folder>
                 <file name="language.instance">
                     <attr name="instanceCreate" methodvalue="org.lesscss.lexer.LessCSSTokenId.getLanguage"/>
                     <attr name="instanceOf" stringvalue="org.netbeans.api.lexer.Language"/>
